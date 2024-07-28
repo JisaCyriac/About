@@ -3,7 +3,9 @@
 ## Manager @Morgan Stanley | Sr. Software Engineer @Bank of America | M.Eng in Computer Engineering @UWaterloo
 ## Specialization in AI and ML | Certificate in Business, Entrepreneurship and Technology @UWaterloo
 
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)] About me:
 I have 5 years of experience in FinTech. My passion for learning led me to pursue my Masters in AI and ML.
+
 
 ## Skillsets:
 Java, Python, Scala, Apache Spark, ETL, Teradata, SQL Server, RapidSQL, Eclipse, Quartz, Superputty, Perforce, GIT, Ansible, Horizon, MS Office, C, C++, HTML, CSS, Mulesoft, Matlab, GCP, AWS, Azure, Kafka, RabbitMQ, Visual Studio, Jenkins, Flask, NLP, Proteus, Agile methodology, JSON, Jira, Putty, Hadoop, Bitbucket, CI/CD, Kubernetes, front-end JavaScript, Spring MVC, scikit-learn, matplotlib, pandas, pickle, numpy, PyTorch, tensorflow and keras.
